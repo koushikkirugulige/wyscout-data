@@ -1,5 +1,5 @@
 # Football-Analytics using wyscout open data
-##wyscoutpitch.py
+## wyscoutpitch.py
 A Pitch Viz tailor made as per wyscout format just import this and call pitch() for the football ground
 
 
