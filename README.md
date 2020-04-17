@@ -4,4 +4,4 @@ A Pitch Viz tailor made as per wyscout format just import this and call pitch() 
 
 
 
-[Luca Pappalardo,Emanuele Massucco](Special Thanks to https://doi.org/10.6084/m9.figshare.c.4415000.v5)
+Special Thanks to [Luca Pappalardo,Emanuele Massucco](https://doi.org/10.6084/m9.figshare.c.4415000.v5)
